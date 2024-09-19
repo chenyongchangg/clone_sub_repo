@@ -1,2 +1,3 @@
 # clone_sub_repo
-download sub folder in github
+english: download sub folder in github
+中文:     下载github某个目录的所有文件
